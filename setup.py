@@ -10,7 +10,7 @@ setup(
     version="1.0.0", 
     description="AI development workflow CLI for uploading markdown files to Notion (Claude Code, Cursor, Windsurf)",
     author="DVPS",
-    author_email="admin@dvps.engineer",
+    author_email="admin@zaum.ai",
     url="https://github.com/j2d3/notion-ai-cli",
     py_modules=["notion_cli"],
     install_requires=[

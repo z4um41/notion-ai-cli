@@ -34,7 +34,7 @@ Features for development teams:
 
 After duplicating this template:
 
-1. **Install the CLI**: Follow the [installation guide](https://dvps.engineer/notion-claude-cli.html)
+1. **Install the CLI**: Follow the [installation guide](https://zaum.ai/notion-claude-cli.html)
 2. **Authorize access**: Run `notion-cli auth` to connect to your workspace
 3. **Start uploading**: Use `notion-cli upload README.md` to add your first document
 
@@ -90,7 +90,7 @@ Feel free to:
 ## 📖 Learn More
 
 - [Full Documentation](https://github.com/j2d3/notion-ai-cli)
-- [Installation Guide](https://dvps.engineer/notion-ai-cli.html)
+- [Installation Guide](https://zaum.ai/notion-claude-cli.html)
 - [Support & Issues](https://github.com/j2d3/notion-ai-cli/issues)
 
 ---
